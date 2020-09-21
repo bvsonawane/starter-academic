@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Balasaeh  V Sonawane
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Washington State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My core research focuses on how environmental changes influnce leaf carbon metabolism and hydraulics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- C3 and C4 photosynthesis
+- Leaf hydraulics
+- Climate change
+- High tempreture and water stress
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Ph.D. in Plant Biology
+    institution: Western Sydeny University, NWS, Australia.
+    year: 2016
+  - course: M.Sc in Agricultural Biotechnology
+    institution: Marathwada Agricultural University, Parabhani, MH, India
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B. Sc. in Agricultural Biotechnology
+    institution:Mahatma Phule Agricultural University, Rahuri, MH, India
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
