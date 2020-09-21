@@ -28,7 +28,6 @@ interests:
 
 education:
   courses:
-<<<<<<< HEAD
   - course: PhD in Plant Biology
     institution: Western Sydeny University NWS Australia
     year: 2016
@@ -37,16 +36,6 @@ education:
     year: 2009
   - course: BSc in Agricultural Biotechnology
     institution: Mahatma Phule Agricultural University Rahuri MH India
-=======
-  - course: Ph.D. in Plant Biology
-    institution: Western Sydeny University, NWS, Australia.
-    year: 2016
-  - course: M.Sc in Agricultural Biotechnology
-    institution: Marathwada Agricultural University, Parabhani, MH, India
-    year: 2009
-  - course: B. Sc. in Agricultural Biotechnology
-    institution:Mahatma Phule Agricultural University, Rahuri, MH, India
->>>>>>> d272e7d17218709fcd81cca0987ac6101853e3a5
     year: 2007
 
 # Social/Academic Networking
@@ -84,4 +73,4 @@ user_groups:
 
 I am a Postdoctoral research associate at the Washington State University. My reseach focuses on how environmental changes imposed by global change, such as high temperature and drought, influences leaf carbon metabolism and hydraulics. Overarching aim of my research is to identify leaf level traits in C3 and C4 plants that can be exploited to develop climate resilent crops.
 
-
+I utlise gas exchange, stable isotopes, hydralucs measurment techniques in my research.
