@@ -44,7 +44,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 #- icon: envelope
- $ icon_pack: fas
+ #$ icon_pack: fas
   #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-My reseach focuses on how environmental changes imposed by global change, such as high temperature and drought, influences leaf carbon metabolism and hydraulics. Overarching goal of my research is to identify and leaf level traits in C<sub>3</sub> and C<sub>4</sub> plants that can be exploited to develop climate resilent crops.
+My reseach focuses on how environmental changes imposed by global change, such as high temperature and drought, influence leaf carbon metabolism and hydraulics. Overarching goal of my research is to identify leaf level traits in C<sub>3</sub> and C<sub>4</sub> plants that can be exploited to develop climate resilent crops.
 
 To achive this goal, my research is melding multidisciplinary apporaches such as leaf physiology, biochemistry and stable isotopes of carbon and oxygen.
