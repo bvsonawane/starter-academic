@@ -21,7 +21,7 @@ organizations:
 bio: My core research focuses on how environmental changes influnce leaf carbon metabolism and hydraulics.
 
 interests:
-- C<sub>3<sub/> and C<sub>4</sub> photosynthesis
+- C<sub>3</sub> and C<sub>4</sub> photosynthesis
 - Leaf hydraulics
 - Climate change
 - High tempreture and water stress
