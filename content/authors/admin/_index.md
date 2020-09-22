@@ -18,13 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My core research focuses on how environmental changes influnce leaf carbon metabolism and hydraulics.
+bio: My core research interest lies in the responses of leaf carbon metabolism and hydraulics to the environmental changes that are imposed by global change.
 
 interests:
 - C<sub>3</sub> and C<sub>4</sub> photosynthesis
 - Leaf hydraulics
-- Climate change
-- High tempreture and water stress
+- High temperature and water stress
+- Carbon and Oxygen discimination inside the leaf
 
 education:
   courses:
@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-My reseach focuses on how environmental changes imposed by global change, such as high temperature and drought, influence leaf carbon metabolism and hydraulics. Overarching goal of my research is to identify leaf level traits in C<sub>3</sub> and C<sub>4</sub> plants that can be exploited to develop climate resilent crops.
+My core research interest lies in the responses of leaf carbon metabolism and hydraulics to the environmental changes that are imposed by global change. Particularly, I am addressing how high temperature and drought influences CO2 and water movement inside the leaf, and enzymes involved in the carbon assimilation. The ultimate goal of my research is to identify leaf-level traits in C<sub<3</sub> and C<sub>4</sub> plants that can be exploited to develop climate-resilient crops.
 
-To achive this goal, my research is melding multidisciplinary apporaches such as leaf physiology, biochemistry and stable isotopes of carbon and oxygen.
+To achieve this goal, my research is melding multidisciplinary approaches such as leaf physiology, biochemistry, and stable isotopes of carbon and oxygen in wild and crop plants.
