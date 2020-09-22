@@ -21,7 +21,7 @@ organizations:
 bio: My core research focuses on how environmental changes influnce leaf carbon metabolism and hydraulics.
 
 interests:
-- C3 and C4 photosynthesis
+- C<sub>3<sub/> and C<sub>4</sub> photosynthesis
 - Leaf hydraulics
 - Climate change
 - High tempreture and water stress
@@ -43,9 +43,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#- icon: envelope
+ $ icon_pack: fas
+  #link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/balasaheb4u
@@ -62,7 +62,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "b.sonawane@wsu.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral research associate at the Washington State University. My reseach focuses on how environmental changes imposed by global change, such as high temperature and drought, influences leaf carbon metabolism and hydraulics. Overarching aim of my research is to identify leaf level traits in C3 and C4 plants that can be exploited to develop climate resilent crops.
+My reseach focuses on how environmental changes imposed by global change, such as high temperature and drought, influences leaf carbon metabolism and hydraulics. Overarching goal of my research is to identify and leaf level traits in C<sub>3</sub> and C<sub>4</sub> plants that can be exploited to develop climate resilent crops.
 
-I utlise gas exchange, stable isotopes, hydralucs measurment techniques in my research.
+To achive this goal, my research is melding multidisciplinary apporaches such as leaf physiology, biochemistry and stable isotopes of carbon and oxygen.
