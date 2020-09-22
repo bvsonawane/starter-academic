@@ -28,14 +28,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Plant Biology
-    institution: Western Sydeny University NWS Australia
+  - course: Ph.D. in Plant Biology
+    institution: Western Sydeny University, NWS, Australia.
     year: 2016
-  - course: MSc in Agricultural Biotechnology
-    institution: Marathwada Agricultural University Parabhani MH India
+  - course: M.Sc. in Agricultural Biotechnology
+    institution: Marathwada Agricultural University, Parabhani, MH, India.
     year: 2009
-  - course: BSc in Agricultural Biotechnology
-    institution: Mahatma Phule Agricultural University Rahuri MH India
+  - course: B.Sc. in Agricultural Biotechnology
+    institution: Mahatma Phule Agricultural University, Rahuri, MH, India.
     year: 2007
 
 # Social/Academic Networking
