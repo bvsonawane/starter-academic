@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Pullman, WA, USA"
   date_start = "2016-05-02"
   date_end = ""
-  description = """
-  #Responsibilities include:
-  
-  #* 
-  #* 
-  #* 
-  """
+  description = """ """
 
 [[experience]]
   title = "PhD Student"
@@ -39,12 +33,12 @@ date_format = "Jan 2006"
   location = "Western Sydney University, NSW, Australia"
   date_start = "2013-02-04"
   date_end = "2016-05-01"
-  description = """ Thesis: Environmental regulation of CO<sub<2</sub> concentrating mechanisms in C<sub>4</sub> grasses   with different biochemical subtypes."""
+  description = """ Thesis: Environmental regulation of CO<sub>2</sub> concentrating mechanisms in C<sub>4</sub> grasses   with different biochemical subtypes."""
 
 [[experience]]
   title = "Senior Research Fellow"
   company = "Central Institute for Cotton Reseach"
-  company_url = ""
+  company_url = "https://www.westernsydney.edu.au/hie/people/postgraduate_students/graduates/bala_sonawane"
   location = "Nagpur, MH, India"
   date_start = "2012-08-30"
   date_end = "2013-01-18"
