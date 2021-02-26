@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Balasaheb  V Sonawane
+title: Balasaheb V Sonawane
 
 # Username (this should match the folder name)
 authors:
@@ -24,12 +24,12 @@ interests:
 - C<sub>3</sub> and C<sub>4</sub> photosynthesis
 - Leaf hydraulics
 - High temperature and water stress
-- Leaf carbon and oxygen isotope discimination
+- Leaf carbon and oxygen isotope discrimination
 
 education:
   courses:
   - course: Ph.D. in Plant Biology
-    institution: Western Sydney University, NWS, Australia.
+    institution: Western Sydney University, NSW, Australia.
     year: 2016
   - course: M.Sc. in Agricultural Biotechnology
     institution: Vasantrao Naik Marathwada Agricultural University, Parabhani, MH, India.
@@ -71,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-My core research interest lies in the responses of leaf carbon metabolism and hydraulics to the environmental changes that are imposed by global change. Particularly, I am addressing how high temperature and drought influences CO<sub>2</sub> and water movement inside the leaf, and enzymes involved in the carbon assimilation. The ultimate goal of my research is to identify leaf-level traits in C<sub>3</sub> and C<sub>4</sub> plants that can be exploited to develop climate-resilient crops.
-
-To achieve this goal, my research is melding multidisciplinary approaches such as leaf physiology, biochemistry, and stable isotopes of carbon and oxygen in wild and crop plants.
+My core research interest lies in the responses of leaf carbon metabolism and hydraulics to the environmental changes that are imposed by global change. Particularly, I am addressing how high temperature and drought influences CO<sub>2</sub> and water movement inside the leaf, and enzymes involved in the carbon assimilation. The goal of my research is to identify exploitable leaf-level traits in C<sub>3</sub> and C<sub>4</sub> plants to develop climate-resilient crops. To achieve this goal, my research is melding multidisciplinary approaches such as leaf physiology, biochemistry, and stable isotopes of carbon and oxygen in wild and crop plants.
