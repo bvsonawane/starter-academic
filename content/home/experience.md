@@ -24,7 +24,13 @@ date_format = "Jan 2006"
   location = "Pullman, WA, USA"
   date_start = "2016-05-02"
   date_end = ""
-  description = """ """
+  description = """
+  #Responsibilities include:
+  
+  #* 
+  #* 
+  #* 
+  """
 
 [[experience]]
   title = "PhD Student"
@@ -38,7 +44,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Senior Research Fellow"
   company = "Central Institute for Cotton Reseach"
-  company_url = "https://www.westernsydney.edu.au/hie/people/postgraduate_students/graduates/bala_sonawane"
+  company_url = ""
   location = "Nagpur, MH, India"
   date_start = "2012-08-30"
   date_end = "2013-01-18"
