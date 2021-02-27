@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Pullman, WA, USA"
   date_start = "2016-05-02"
   date_end = ""
-  description = """
-  #Responsibilities include:
-  
-  #* 
-  #* 
-  #* 
-  """
+  description = """  """
 
 [[experience]]
   title = "Senior Research Fellow"
