@@ -33,21 +33,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "PhD Student"
-  company = "Hawkesbury Institute for the Environment"
-  company_url = ""
-  location = "Western Sydney University, NSW, Australia"
-  date_start = "2013-02-04"
-  date_end = "2016-05-01"
-  description = """ Thesis: Environmental regulation of CO<sub>2</sub> concentrating mechanisms in C<sub>4</sub> grasses   with different biochemical subtypes."""
-
-[[experience]]
   title = "Senior Research Fellow"
   company = "Central Institute for Cotton Reseach"
   company_url = ""
   location = "Nagpur, MH, India"
-  date_start = "2012-08-30"
-  date_end = "2013-01-18"
+  date_start = "2013-01-18"
+  date_end = "2012-08-30"
   description = """Development of DNA based markers for cotton genotyping."""
 
 +++
