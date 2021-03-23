@@ -66,8 +66,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2013-01-01"
   date_end = "2017-06-01"
-  description = "Scholarship to support Ph. D Research ast the School of Environmental and Life Sciences,
-  University of Newcastle, Newcastle, Australia."
+  description = "Scholarship to support PhD Research ast the School of Environmental and Life Sciences, University of Newcastle, Newcastle, Australia."
   
 [[item]]
   organization = "Indian Academy of Sciences, Banglore, India"
