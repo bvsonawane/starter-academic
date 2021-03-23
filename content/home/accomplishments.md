@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards and Honors"
 subtitle = ""
 
 # Date format
@@ -19,24 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "28th western photosynthesis congress, Friday Harbor, WA, USA"
+  organization_url = ""
+  title = "Travel Award"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2019-01-03"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Australian Research Council-"
+  organization_url = ""
+  title = "Discovery Postgraduate Research Award"
+  url = " "
+  certificate_url = ""
+  date_start = "2013-02-04"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "Award for Ph. D. at Hawkesbury Institure for the Environment, Western Sydney University, NSW,       Australia"
   
 [[item]]
   organization = "DataCamp"
