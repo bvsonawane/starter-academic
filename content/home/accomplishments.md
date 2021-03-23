@@ -75,8 +75,8 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2008-08-01"
-  date_end = "2008-08-30"
-  description = "Fellowship to Support a Research Project on Genetic Transformation of Rice using Biolistic Method   in Prof. Swapan Kumar Datta's lab at University of Calcutta, WB, India."
+  date_end = "2008-10-30"
+  description = "Fellowship to Support a Research Project on Genetic Transformation of Rice using Biolistic Method   in Prof. Swapan Kumar Datta's lab, University of Calcutta, WB, India."
   
 [[item]]
   organization = "Department of Biotechnology, Government of India"
