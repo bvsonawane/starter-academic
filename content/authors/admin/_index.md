@@ -14,7 +14,7 @@ role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Washington State University
+- name: Washington State University, WA, USA
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Plant Biology
-    institution: Western Sydney University, NWS, Australia.
+    institution: Western Sydney University, NSW, Australia.
     year: 2016
   - course: M.Sc. in Agricultural Biotechnology
     institution: Vasantrao Naik Marathwada Agricultural University, Parabhani, MH, India.
