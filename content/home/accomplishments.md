@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "28th western photosynthesis congress, Friday Harbor, WA, USA"
+  organization = "28th Western Photosynthesis Congress, Friday Harbor, WA, USA"
   organization_url = ""
   title = "Travel Award"
   url = ""
@@ -29,23 +29,63 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Australian Research Council-"
+  organization = "Australian Research Council"
   organization_url = ""
   title = "Discovery Postgraduate Research Award"
   url = " "
   certificate_url = ""
   date_start = "2013-02-04"
-  date_end = ""
-  description = "Award for Ph. D. at Hawkesbury Institure for the Environment, Western Sydney University, NSW,       Australia"
+  date_end = "2014-02-04"
+  description = "Award for Ph. D. Research at Hawkesbury Institure for the Environment, Western Sydney University, NSW,       Australia."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Hawkesbury Institure for the Environment, Western Sydney University, NSW, Australia."
+  organization_url = ""
+  title = "Postgraduate Research Award"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2014-02-04"
+  date_end = "2016-05-01"
+  description = "Award for Ph. D. Research at Hawkesbury Institure for the Environment, Western Sydney University,   NSW, Australia."
 
+[[item]]
+  organization = "Australian National University, Canberra, Australia."
+  organization_url = ""
+  title = "SIBS-2014 Workshop Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-02-02"
+  date_end = "2014-02-09"
+  description = "Award to Participate Workshop on Stable Isotopes in Biosphere Systems at Australian National        University, Canberra, Australia."
+  
+[[item]]
+  organization = "Australian Government Department of Industry, Australia."
+  organization_url = ""
+  title = "International Postgraduate Reseach Scholarship (Declined)"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-01-01"
+  date_end = "2017-06-01"
+  description = "Scholarship to support Ph. D Research ast the School of Environmental and Life Sciences,
+  University of Newcastle, Newcastle, Australia."
+  
+[[item]]
+  organization = "Indian Academy of Sciences, Banglore, India"
+  organization_url = ""
+  title = "Summer Reseach Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2008-08-01"
+  date_end = "2008-08-30"
+  description = "Fellowship to Support a Research Project on Genetic Transformation of Rice using Biolistic Method   in Prof. Swapan Kumar Datta's lab at University of Calcutta, WB, India."
+  
+[[item]]
+  organization = "Department of Biotechnology, Government of India"
+  organization_url = ""
+  title = "M. Sc. Fellowship"
+  url = ""
+  certificate_url = ""
+  date_start = "2007-06-01"
+  date_end = "2009-06-30"
+  description = "Fellowship to Support a M.Sc. in Agricultural Biotechnology at Marathwada Agricultural University, Parbhani, MH, India."
 +++
